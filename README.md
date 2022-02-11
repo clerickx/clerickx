@@ -2,7 +2,7 @@
 
 ## About
 - A dumb guy who rage quits every second if a code fails
-![clerick x#3081](https://discord.c99.nl/widget/theme-4/735550905721684098.png)
+- ![clerick x#3081](https://discord.c99.nl/widget/theme-4/735550905721684098.png)
 
 ## Languages
 - Python
